@@ -1,0 +1,21 @@
+@media (max-width: 32.5em){
+    header{
+        background: #66b5e2;
+        color: rgb(0, 0, 0);
+    }
+    main div div{
+        background: rgb(152, 184, 192);
+    }
+
+    header div img{
+        margin: 0;
+        padding: 2em 0 1em 1em;
+        height: 5em;
+        align-items: center;
+    }
+
+    .header-text{
+        font-size: .9em;
+        }
+
+}
