@@ -1,0 +1,35 @@
+@media (min-width: 32.5em){
+    header{
+        background: red; 
+
+    }
+    nav{
+        margin: 0 auto;
+        max-width: auto;
+    }
+    
+    .navigation{
+        display: flex;
+    }
+
+
+    .navigation li {
+        display: block;
+        flex: 1 1 100%;
+    }
+
+    /* CONTENT SECTIONS */
+    .first-section{
+        background: green;
+    }
+
+    .second-section{
+        background: orange;
+    }
+    .spot{
+        background: purple;
+    }
+
+
+
+}
